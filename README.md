@@ -1,6 +1,6 @@
 # Manhattan-Taxi
 
-###Overview
+### Overview
 Implemented various regression models to predict travel time of taxi rides in New York. 
 
 ## Processing
